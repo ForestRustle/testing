@@ -1,3 +1,4 @@
+//Класс для жесткого диска
 public class HDD extends  AbstractComponentPC{
 
     public HDD(String name) {

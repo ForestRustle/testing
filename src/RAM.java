@@ -1,3 +1,4 @@
+//Класс для оперативной памяти
 public class RAM extends AbstractComponentPC{
     public RAM(String name) {
         super(name);

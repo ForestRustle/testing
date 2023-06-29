@@ -1,3 +1,4 @@
+//Класс для видеокарты
 public class GraphicsCard extends AbstractComponentPC{
 
     public GraphicsCard(String name) {

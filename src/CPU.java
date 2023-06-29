@@ -1,3 +1,4 @@
+//Класс для процессора
 public class CPU extends AbstractComponentPC{
     public CPU(String name){
         super(name);

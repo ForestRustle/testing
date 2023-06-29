@@ -1,4 +1,4 @@
-//нужен для комплектующих для ПК
+//класс для комплектующих для ПК
 abstract class AbstractComponentPC implements ComponentPC{
     private String name;
 
